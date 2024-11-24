@@ -40,7 +40,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mindscms/laravelshoppingcart"
+            "url": "https://github.com/alinlinca10/laravelshoppingcart"
         }
     ],
     "minimum-stability": "stable",
