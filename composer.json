@@ -37,6 +37,12 @@
             "Gloudemans\\Tests\\Shoppingcart\\": "tests/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mindscms/laravelshoppingcart"
+        }
+    ],
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
